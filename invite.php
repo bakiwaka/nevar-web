@@ -32,6 +32,7 @@ if(isset($_GET['r']) && filter_var($_GET['r'], FILTER_VALIDATE_BOOL) === true) h
     <script>
         var _paq = window._paq = window._paq || [];
         /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+        _paq.push(['requireConsent']);
         _paq.push(['trackPageView']);
         _paq.push(['enableLinkTracking']);
         (function() {

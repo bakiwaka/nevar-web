@@ -105,11 +105,15 @@ class GlowCookies {
 
     acceptCookies() {
         localStorage.setItem("GlowCookies", "1")
+        window._paq.push(['rememberConsentGiven'])
+        window._paq.push(['rememberCookieConsentGiven'])
         this.openManageCookies()
     }
 
     rejectCookies() {
         localStorage.setItem("GlowCookies", "0");
+        window._paq.push(['forgetConsentGiven'])
+        window._paq.push(['forgetCookieConsentGiven'])
         this.openManageCookies();
     }
 
