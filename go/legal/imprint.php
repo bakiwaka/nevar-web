@@ -25,6 +25,19 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/assets/php/functions/switchLang.php';
     <link href="/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
     <!-- Main CSS File -->
     <link href="/assets/css/style.css" rel="stylesheet">
+    <script>
+        var _paq = window._paq = window._paq || [];
+        /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        (function() {
+            var u="//nevar.eu/matomo/";
+            _paq.push(['setTrackerUrl', u+'matomo.php']);
+            _paq.push(['setSiteId', '1']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+        })();
+    </script>
 </head>
 <body style="background-color: #1A2238">
 <!-- ======= Header ======= -->
