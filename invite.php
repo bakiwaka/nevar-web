@@ -81,4 +81,14 @@ if(isset($_GET['r']) && filter_var($_GET['r'], FILTER_VALIDATE_BOOL) === true) h
 <!-- Main JS File -->
 <script src="/assets/js/main.js"></script>
 </body>
+<link rel="stylesheet" href="/assets/css/cookies.css" />
+<script src="/assets/js/cookies.js"></script>
+<script>
+    glowCookies.start('<?=$lang["lang_iso"]; ?>', {
+        policyLink: '/go/legal/privacy',
+        style: 1,
+        bannerBackground: '#E6E2DD'
+
+    });
+</script>
 </html>

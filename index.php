@@ -464,7 +464,18 @@ include_once './assets/php/functions/switchLang.php';
 <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
 <script src="assets/vendor/php-email-form/validate.js"></script>
 <script src="assets/js/jquery-min-3.6.0.js"></script>
+
 <!-- Main JS File -->
 <script src="assets/js/main.js"></script>
 </body>
+<link rel="stylesheet" href="/assets/css/cookies.css" />
+<script src="/assets/js/cookies.js"></script>
+<script>
+    glowCookies.start('<?=$lang["lang_iso"]; ?>', {
+        policyLink: '/go/legal/privacy',
+        style: 1,
+        bannerBackground: '#E6E2DD'
+
+    });
+</script>
 </html>
