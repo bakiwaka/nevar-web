@@ -8,7 +8,7 @@ $_SESSION["lang"] = "de";
 // check if language cookie exists, if so set language to cookie value
 if(!isset($_COOKIE["language"])){
     // no cookie found, set language cookie to default
-    setcookie("language", "de", time() + 60*60*24*30*2*2, "/");
+    setcookie("language", "de", time() + 2 * (365 * 24 * 60 * 60), "/");
 }else{
     // cookie found, set language to cookie value
     $cookie_lang = $_COOKIE["language"];
