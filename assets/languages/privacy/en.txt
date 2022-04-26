@@ -358,6 +358,10 @@
                         <h2 id='matomo-privacy-policy' class='adsimple-311988122'>Matomo privacy policy</h2>
                         <p>We use Matomo, an analysis software for websites, on our website. Service provider is the New Zealand company InnoCraft Ltd, 7 Waterloo Quay PO625, 6140 Wellington, New Zealand. You can find out more about the data processed by using Matomo in the privacy policy at <a class='adsimple-311988122' href='https://matomo.org/privacy-policy/' target='_blank ' rel='noopener'>https://matomo.org/privacy-policy/</a>
                             <u>. </u>Questions about privacy can be emailed to <a class='adsimple-311988122' href='mailto:privacy@matomo.org'>privacy@matomo.org</a>.</p>
+            <iframe
+                style="border: 0; height: 200px; width: 600px;"
+                src="https://nevar.eu/matomo/index.php?module=CoreAdminHome&action=optOut&language=en&backgroundColor=ffffff&fontColor=000000&fontSize=&fontFamily=Arial"
+            ></iframe>
             <h2 id='content-delivery-networks-einleitung' class='adsimple-311988122'>Content Delivery Networks Introduction</h2>
             <table border='1' cellpadding='15'>
                 <tbody>
