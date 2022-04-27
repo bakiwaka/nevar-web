@@ -779,6 +779,8 @@
 
             this.tRex.update(100, Trex.status.CRASHED);
 
+            document.getElementById('messageBox').style.visibility="visible";
+
             // Game over panel.
             if (!this.gameOverPanel) {
                 this.gameOverPanel = new GameOverPanel(this.canvas,
