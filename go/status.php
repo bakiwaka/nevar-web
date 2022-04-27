@@ -88,8 +88,8 @@ if(isset($_GET['code']) && is_numeric($_GET['code'])) $code = $_GET['code'];
                     </template>
                 </div>
             </div>
-            <div id="messageBox" class="sendmessage">
-            <h3><?= $lang['dino_introductions']?></h3>
+            <div id="messageBox" class="desktop-only">
+                <h3><?= $lang['dino_introductions']?></h3>
             </div>
         </div>
     </section>

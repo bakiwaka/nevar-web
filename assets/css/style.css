@@ -1124,3 +1124,15 @@ section {
     padding: 0 8px;
   }
 }
+
+@media(max-width:991px) {
+  .desktop-only {
+    display: none;
+  }
+}
+
+@media(min-width:991px) {
+  .mobile-only {
+    display: none;
+  }
+}
