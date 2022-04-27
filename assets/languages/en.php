@@ -274,6 +274,45 @@ $lang = array(
     "inv_breadcrumb_1" => "General",
     "inv_breadcrumb_2" => "Invite",
 
-    "inv_text" => "<h2>Invite Nevar here and get tons of benefits</h2><br><p></p>"
+    "inv_text" => "<h2>Invite Nevar here and get tons of benefits</h2><br><p></p>",
+
+
+    // Status Codes
+
+    "title_400" => "Nevar &middot; Error 400",
+    "desc_400" => "Nevar - Error 400",
+    "breadcrumb_status" => "Response",
+    "breadcrumb_400" => "Error 400",
+    "status_400"=>"Bad Request",
+
+    "dino_start" => "Press spacebar to start",
+    "dino_introductions" => "<i class='bi bi-distribute-vertical''></i> Jump<br>
+                                <i class='bi bi-arrow-up-square-fill'></i> Jump<br>
+                                <i class='bi bi-arrow-down-square-fill'></i> Duck",
+
+    "title_401" => "Nevar &middot; Error 401",
+    "desc_401" => "Nevar - Error 401",
+    "breadcrumb_401" => "Error 401",
+    "status_401"=>"Unauthorized",
+
+    "title_403" => "Nevar &middot; Error 403",
+    "desc_403" => "Nevar - Error 403",
+    "breadcrumb_403" => "Error 403",
+    "status_403"=>"Forbidden",
+
+    "title_404" => "Nevar &middot; Error 404",
+    "desc_404" => "Nevar - Error 404",
+    "breadcrumb_404" => "Error 404",
+    "status_404"=>"Page not found",
+
+    "title_429" => "Nevar &middot; Error 429",
+    "desc_429" => "Nevar - Error 429",
+    "breadcrumb_429" => "Error 429",
+    "status_429"=>"Too Many Requests",
+
+    "title_500" => "Nevar &middot; Error 500",
+    "desc_500" => "Nevar - Error 500",
+    "breadcrumb_500" => "Error 500",
+    "status_500"=>"Internal Server Error",
 )
 ?>

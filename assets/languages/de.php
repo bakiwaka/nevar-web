@@ -278,6 +278,45 @@
         "inv_breadcrumb_1" => "Allgemeines",
         "inv_breadcrumb_2" => "Einladen",
 
-        "inv_text" => "<h2>Lade Nevar hier ein und erhalte unzählige Vorteile</h2><br><p></p>"
+        "inv_text" => "<h2>Lade Nevar hier ein und erhalte unzählige Vorteile</h2><br><p></p>",
+
+        // Status Codes
+
+        "title_400" => "Nevar &middot; Fehler 400",
+        "desc_400" => "Nevar - Fehler 400",
+        "breadcrumb_status" => "Status",
+        "breadcrumb_400" => "Fehler 400",
+        "status_400"=>"Bad Request",
+
+        "dino_start" => "Drücke Leertaste zum starten",
+        "dino_introductions" => "<i class='bi bi-distribute-vertical''></i> Springen<br>
+                                <i class='bi bi-arrow-up-square-fill'></i> Springen<br>
+                                <i class='bi bi-arrow-down-square-fill'></i> Ducken",
+
+        "title_401" => "Nevar &middot; Fehler 401",
+        "desc_401" => "Nevar - Fehler 401",
+        "breadcrumb_401" => "Fehler 401",
+        "status_401"=>"Unautorisiert",
+
+        "title_403" => "Nevar &middot; Fehler 403",
+        "desc_403" => "Nevar - Fehler 403",
+        "breadcrumb_403" => "Fehler 403",
+        "status_403"=>"Forbidden",
+
+        "title_404" => "Nevar &middot; Fehler 404",
+        "desc_404" => "Nevar - Fehler 404",
+        "breadcrumb_404" => "Fehler 404",
+        "status_404"=>"Seite nicht gefunden",
+
+        "title_429" => "Nevar &middot; Fehler 429",
+        "desc_429" => "Nevar - Fehler 429",
+        "breadcrumb_429" => "Fehler 429",
+        "status_429"=>"Too Many Requests",
+
+        "title_500" => "Nevar &middot; Fehler 500",
+        "desc_500" => "Nevar - Fehler 500",
+        "breadcrumb_500" => "Fehler 500",
+        "status_500"=>"Internal Server Error",
+
     )
 ?>
