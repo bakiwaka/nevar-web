@@ -129,7 +129,7 @@ if(isset($_GET['code']) && is_numeric($_GET['code'])) $code = $_GET['code'];
     document.onkeydown = function(evt) {
         evt = evt || window.event;
         if (evt.keyCode === 32) {
-            var box = document.getElementById("messageBox");
+            let box = document.getElementById("messageBox");
             box.style.visibility="hidden";
         }
     };
@@ -138,5 +138,9 @@ if(isset($_GET['code']) && is_numeric($_GET['code'])) $code = $_GET['code'];
             e.preventDefault();
         }
     });
+    window.addEventListener('touchend', function(e){
+        let box = document.getElementById("messageBox");
+        box.style.visibility="hidden";
+    })
 </script>
 </html>
