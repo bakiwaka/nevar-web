@@ -31,7 +31,7 @@
             <div class="col-lg-2 col-md-6 footer-links">
             <h4><?php echo $lang["footer_other"]?></h4>
             <ul>
-              <li><i class="bi bi-chevron-right"></i> <a href="https://status.page" rel="noopener" target="_blank"><?php echo $lang["footer_status"]?></a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="https://stats.uptimerobot.com/x83qACLOBA" rel="noopener" target="_blank"><?php echo $lang["footer_status"]?></a></li>
               <li><i class="bi bi-chevron-right"></i> <a href="/go/legal/bot-privacy"><?php echo $lang["footer_botprivacy"]?></a></li>
               <li><i class="bi bi-chevron-right"></i> <a href="/go/legal/terms"><?php echo $lang["footer_terms"]?></a></li>
               <li><i class="bi bi-chevron-right"></i> <a href="/go/legal/privacy"><?php echo $lang["footer_privacy"]?></a></li>
