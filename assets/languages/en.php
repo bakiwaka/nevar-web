@@ -286,6 +286,7 @@ $lang = array(
     "status_400"=>"Bad Request",
 
     "dino_start" => "Press spacebar to start",
+    "dino_start_mobile" => "Tap to start",
     "dino_introductions" => "<i class='bi bi-distribute-vertical''></i> Jump<br>
                                 <i class='bi bi-arrow-up-square-fill'></i> Jump<br>
                                 <i class='bi bi-arrow-down-square-fill'></i> Duck",

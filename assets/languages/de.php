@@ -289,6 +289,7 @@
         "status_400"=>"Bad Request",
 
         "dino_start" => "Drücke Leertaste zum starten",
+        "dino_start_mobile" => "Tippe zum starten",
         "dino_introductions" => "<i class='bi bi-distribute-vertical''></i> Springen<br>
                                 <i class='bi bi-arrow-up-square-fill'></i> Springen<br>
                                 <i class='bi bi-arrow-down-square-fill'></i> Ducken",

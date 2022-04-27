@@ -71,7 +71,8 @@ if(isset($_GET['code']) && is_numeric($_GET['code'])) $code = $_GET['code'];
         <div class="container offline" id="t">
             <h1 style='color: #D48166'><?=$lang["status_$code"]; ?></h1>
             <div id="messageBox" class="sendmessage">
-                <h2 style="text-align: center;font-family: 'Open Sans', sans-serif;"><?=$lang["dino_start"]; ?></h2>
+                <h2 style="text-align: center;font-family: 'Open Sans', sans-serif;" class="desktop-only"><?=$lang["dino_start"]; ?></h2>
+                <h2 style="text-align: center;font-family: 'Open Sans', sans-serif;" class="mobile-only"><?=$lang["dino_start_mobile"]; ?></h2>
                 <div class="niokbutton" onclick="okbuttonsend()"></div>
             </div>
             <div id="main-frame-error" class="interstitial-wrapper">
