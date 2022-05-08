@@ -4,6 +4,7 @@ $lang = array(
     "lang_iso" => "es",
     "title" => "Nevar &middot; Home",
     "meta_description" => "Nevar - eso es todo lo que necesitas",
+    "og_desc"=>"Nevar es un bot multipropósito de Discord que cubre las funciones más importantes de todas las áreas",
     "invite" => "Invitar",
     "support" => "Suporte",
 
