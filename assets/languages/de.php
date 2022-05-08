@@ -4,6 +4,7 @@
         "lang_iso" => "de",
         "title" => "Nevar &middot; Home",
         "meta_description" => "Nevar - mehr brauchst du nicht",
+        "og_desc"=>"Nevar ist ein Discord multi-purpose Bot der aus allen Bereichen die wichtigsten Funktionen abdeckt",
         "invite" => "Einladen",
         "support" => "Support",
 

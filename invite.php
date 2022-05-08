@@ -14,6 +14,10 @@ if(isset($_GET['r']) && filter_var($_GET['r'], FILTER_VALIDATE_BOOL) === true) h
     <title><?=$lang["inv_title"] ?></title>
     <meta content="<?=$lang["inv_metadescription"] ?>" name="description">
     <meta content="Discord, Discord Bot, Nevar, Open Source Bot, Bot, Nevar Bot" name="keywords">
+
+    <!-- OG Tags -->
+    <?php include_once './assets/php/templates/og.php' ?>
+
     <!-- Favicons -->
     <link href="/assets/img/favicon.webp" rel="icon">
     <link href="/assets/img/favicon.webp" rel="apple-touch-icon">

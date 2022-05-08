@@ -8,7 +8,7 @@
               <img src="/assets/img/favicon_transparent.webp" alt="">
               <span>Nevar</span>
             </a>
-            <p><?php echo $lang["home_subtitle"]?></p>
+            <p><?= $lang["home_subtitle"]?></p>
             <div class="social-links mt-3">
                 <a href="/support" class="facebook"><i class="bi bi-discord"></i></a>
                 <a href="https://twitter.com/nevar_eu" class="twitter" rel="noopener" target="_blank"><i class="bi bi-twitter"></i></a>
@@ -18,27 +18,26 @@
           </div>
 
             <div class="col-lg-2 col-md-6 offset-md-4 footer-links">
-            <h4><?php echo $lang["footer_useful"]?></h4>
+            <h4><?= $lang["footer_useful"]?></h4>
             <ul>
-              <li><i class="bi bi-chevron-right"></i> <a href="/#home" class="scrollto"><?php echo $lang["nav_home"]?></a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="/#about" class="scrollto"><?php echo $lang["nav_about"]?></a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="/#features" class="scrollto"><?php echo $lang["nav_features"]?></a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="/#team" class="scrollto"><?php echo $lang["nav_team"]?></a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="/#faq" class="scrollto"><?php echo $lang["nav_faq"]?></a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="/#home" class="scrollto"><?= $lang["nav_home"]?></a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="/#about" class="scrollto"><?= $lang["nav_about"]?></a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="/#features" class="scrollto"><?= $lang["nav_features"]?></a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="/#team" class="scrollto"><?= $lang["nav_team"]?></a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="/#faq" class="scrollto"><?= $lang["nav_faq"]?></a></li>
             </ul>
           </div>
 
             <div class="col-lg-2 col-md-6 footer-links">
-            <h4><?php echo $lang["footer_other"]?></h4>
+            <h4><?= $lang["footer_other"]?></h4>
             <ul>
-              <li><i class="bi bi-chevron-right"></i> <a href="https://stats.uptimerobot.com/x83qACLOBA" rel="noopener" target="_blank"><?php echo $lang["footer_status"]?></a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="/go/legal/bot-privacy"><?php echo $lang["footer_botprivacy"]?></a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="/go/legal/terms"><?php echo $lang["footer_terms"]?></a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="/go/legal/privacy"><?php echo $lang["footer_privacy"]?></a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="/go/legal/imprint"><?php echo $lang["footer_imprint"]?></a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="https://stats.uptimerobot.com/x83qACLOBA" rel="noopener" target="_blank"><?= $lang["footer_status"]?></a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="/go/legal/bot-privacy"><?= $lang["footer_botprivacy"]?></a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="/go/legal/terms"><?= $lang["footer_terms"]?></a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="/go/legal/privacy"><?= $lang["footer_privacy"]?></a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="/go/legal/imprint"><?= $lang["footer_imprint"]?></a></li>
             </ul>
           </div>
-
         </div>
       </div>
     </div>
