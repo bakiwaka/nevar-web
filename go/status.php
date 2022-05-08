@@ -16,7 +16,7 @@ if(isset($_GET['code']) && is_numeric($_GET['code'])) $code = $_GET['code'];
 
     <!-- OG Tags -->
     <?php include_once $_SERVER['DOCUMENT_ROOT'] . '/assets/php/templates/og.php' ?>
-    
+
     <!-- Favicons -->
     <link href="/assets/img/favicon.webp" rel="icon">
     <link href="/assets/img/favicon.webp" rel="apple-touch-icon">
