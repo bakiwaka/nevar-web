@@ -83,27 +83,6 @@ include_once './assets/php/functions/switchLang.php';
 </section>
 <!-- End Home -->
 <main id="main">
-    <!-- ======= About Section ======= -->
-    <section id="about" class="about">
-        <div class="container">
-            <div class="row gx-0">
-                <div class="col-lg-12 d-flex flex-column justify-content-center">
-                    <div class="content">
-                        <h3><?=$lang["about_title"] ?></h3>
-                        <h2><?=$lang["about_subtitle"] ?></h2>
-                        <p><?=$lang["about_description"] ?></p>
-                        <div class="text-center text-lg-start">
-                            <a href="/invite?r=false" class="btn-invite d-inline-flex align-items-center justify-content-center align-self-center">
-                                <span><?=$lang["invite"] ?></span>
-                                <i class="bi bi-arrow-right"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End About Section -->
     <!-- ======= Counts Section ======= -->
     <section id="counts" class="counts">
         <div class="container">
@@ -148,6 +127,27 @@ include_once './assets/php/functions/switchLang.php';
         </div>
     </section>
     <!-- End Counts Section -->
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+        <div class="container">
+            <div class="row gx-0">
+                <div class="col-lg-12 d-flex flex-column justify-content-center">
+                    <div class="content">
+                        <h3><?=$lang["about_title"] ?></h3>
+                        <h2><?=$lang["about_subtitle"] ?></h2>
+                        <p><?=$lang["about_description"] ?></p>
+                        <div class="text-center text-lg-start">
+                            <a href="/invite?r=false" class="btn-invite d-inline-flex align-items-center justify-content-center align-self-center">
+                                <span><?=$lang["invite"] ?></span>
+                                <i class="bi bi-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End About Section -->
     <!-- ======= Features Section ======= -->
     <section id="features" class="features">
         <div class="container">
