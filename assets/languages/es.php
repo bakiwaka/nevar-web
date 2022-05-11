@@ -30,11 +30,13 @@ $lang = array(
 
     // About
     "about_title" => "Quienes somos",
-    "about_subtitle" => "Somos un equipo pequeño que ha hecho del Nevar una afición",
-    "about_description" => "En julio de 2020 comenzamos a desarrollar un pequeño Discord Bot.
-                                En realidad, no teníamos objetivos reales, pero algunas ideas que queríamos implementar.
-                                Después de muchos bots y muchos contratiempos, decidimos comenzar de cero por una vez: Nevar es el resultado.
-                                Nuestro objetivo es ofrecer las funciones más importantes de todas las áreas de forma gratuita.",
+    "about_subtitle" => "Nos hemos propuesto la tarea de simplificar el flujo de trabajo de los administradores de servidores tanto como sea posible",
+    "about_description" => "Comenzamos a desarrollar Discord Bots en julio de 2020,
+                                 Nunca nos ha soltado desde entonces. Con Nevar queremos
+                                 cubrir las funciones más importantes de todas las áreas de la mejor manera posible, especialmente
+                                 Nos caracterizamos por las actualizaciones regulares y la integración de muchas ideas de nuestros usuarios
+                                 y solo que no somos una gran empresa, como otros bots, que solo ejecuta el bot,
+                                 tener otra fuente de ingresos.",
 
     // Stats
     "stats_servers" => "servidores",

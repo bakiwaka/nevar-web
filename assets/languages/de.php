@@ -30,11 +30,13 @@
 
         // About
         "about_title" => "Wer wir sind",
-        "about_subtitle" => "Wir sind ein kleines Team, das sich Nevar hobbymäßig zur Aufgabe gemacht hat",
-        "about_description" => "Im Juli 2020 haben wir begonnen, einen kleinen Discord Bot zu entwickeln.
-                                Wir hatten eigentlich keine wirklichen Ziele, aber ein paar Ideen welche wir umsetzen wollten.
-                                Nach vielen Bots und vielen Rückschlägen haben wir uns entschieden, ein Mal komplett von vorne zu beginnen - Nevar ist das Ergebnis.
-                                Unser Ziel ist es, aus allen Bereichen die wichtigsten Funktionen kostenlos anzubieten",
+        "about_subtitle" => "Wir haben uns zur Aufgabe gemacht, den Workflow von Server-Admins bestmöglich zu vereinfachen",
+        "about_description" => "Wir haben im Juli 2020 mit der Entwicklung von Discord Bots begonnen, 
+                                losgelassen hat es uns seither nie wieder. Mit Nevar wollen wir 
+                                aus allen Bereichen die wichtigsten Funktionen bestmöglich abdecken - besonders
+                                auszeichnen tun uns dabei die regelmäßigen Updates, die Einbindung vieler Ideen unserer Nutzer
+                                und einfach das wir kein riesen Unternehmen sind - wie bei anderen Bots - was den Bot nur betreibt,
+                                um eine weitere Einnahmequelle zu besitzen.",
 
         // Stats
         "stats_servers" => "Server",

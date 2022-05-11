@@ -30,11 +30,13 @@ $lang = array(
 
     // About
     "about_title" => "Who we are",
-    "about_subtitle" => "We are a small team that has made Nevar a hobby",
-    "about_description" => "In July 2020 we started developing a small Discord Bot.
-                                We didn't actually have any real goals, but a few ideas that we wanted to implement.
-                                After many bots and many setbacks, we decided to start from scratch for once - Nevar is the result.
-                                Our goal is to offer the most important functions from all areas free of charge",
+    "about_subtitle" => "We have set ourselves the task of simplifying the workflow of server admins as much as possible",
+    "about_description" => "We started developing Discord Bots in July 2020,
+                                 It has never let go of us since then. With Nevar we want
+                                 cover the most important functions from all areas in the best possible way - especially
+                                 We are characterized by the regular updates and the integration of many ideas from our users
+                                 and just that we are not a huge company - like other bots - which just runs the bot,
+                                 to have another source of income",
 
     // Stats
     "stats_servers" => "servers",
