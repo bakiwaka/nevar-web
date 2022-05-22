@@ -222,35 +222,7 @@ $lang = array(
     "t_breadcrumb_1" => "Legal",
     "t_breadcrumb_2" => "Terms of Use",
 
-    "t_text" => "<h4>Discord Bot Nevar Terms of Service</h4><br>
-                    <b style='color: #D48166'>First of all:</b><br>
-                    <p>The following Terms of Use apply to all users of the Nevar Bot, members of the Nevar Support Discord and are not intended for any exceptions.
-                    </p><br>
-                    <h5 style='color: #D48166'>Nevar Bot General Conditions</h5><br>
-                    <b style='color: #D48166'>§1 - Minimum age</b><br>
-                    <li>You may not use Nevar if you are under the minimum age set by Discord. 
-                    You can find out what your minimum age is <a href='https://support.discord.com/hc/en-us/community/posts/1500000159622' target='_blank' rel='noopener'>here</a >. </li>
-                    <li>If we find out about this, it will lead to a ban so that you can no longer use Nevar.</li><br>
-                    <b style='color: #D48166'>§2 - Use of commands</b><br>
-                    <li>Anyone who spams commands to overload Nevar will be permanently banned from us so that they can no longer use Nevar.</li><br>
-                    <b style='color: #D48166'>§3 - Bug exploitation</b><br>
-                    <li>It is forbidden to abuse bugs for your own benefit or to the detriment of others.</li><br>
-                    <b style='color: #D48166;'>§4 - Liability</b><br>
-                    <li>The respective user is responsible for all actions and content by Nevar. We assume no liability for any damage.</li><br>
-                    <b style='color: #D48166'>§5 - Unlawful Content</b><br>
-                    <li>If we discover that illegal content is being shared via Nevar (e.g. Embed-Command), we will examine legal remedies.</li><br>
-                    <h5 style='color: #D48166'>Nevar Support Discord Terms and Conditions</h5><br>
-                    <b style='color: #D48166'>§1 Tone of voice</b><br>
-                    <li>Treat others the way you would like to treat yourself. Be respectful and kind.</li><br>
-                    <b style='color: #D48166'>§2 Behaviour rules</b><br>
-                    <li>Spam, obscene, pornographic or other illegal content has no place in the chat.</li><br>
-                    <b style='color: #D48166'> §3 Other Rules</b><br>
-                    <li>The <a href='https://discord.com/terms' rel='noopener' target='_blank'>Discord Terms of Service</a> apply at all times, 
-                        the <a href='https:/ /discord.com/guidelines' target='_blank' rel='noopener'>Discord Community Guidelines</a> and German law.</li><br>
-                    <h5 style='color: #D48166'><b>Disclaimer:</b></h5>
-                    <p>We reserve the right to update this page at any time without notice or notice. If you want to stay up to date, you have to do it yourself.</p>",
-
-
+    "t_text" => file_get_contents($_SERVER['DOCUMENT_ROOT'] . '/assets/languages/terms/en.txt'),
     // Privacy Policy
 
     "p_title" => "Nevar &middot; Privacy",

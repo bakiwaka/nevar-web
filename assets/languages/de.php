@@ -226,34 +226,7 @@
         "t_breadcrumb_1" => "Rechtliches",
         "t_breadcrumb_2" => "Nutzungsbedingungen",
 
-        "t_text" => "<h4>Nutzungsbedingungen des Discord Bot Nevar</h4><br>
-                    <b style='color: #D48166'>Vorweg:</b><br>
-                    <p>Die folgenden Nutzungsbedingungen gelten für alle Nutzer des Nevar Bots, Mitglieder des Nevar Support-Discords und sind für keine Ausnahmen vorgesehen.
-                    </p><br>
-                    <h5 style='color: #D48166'>Allgemeine Bedingungen des Nevar Bots</h5><br>
-                    <b style='color: #D48166'>§1 - Mindestalter</b><br>
-                    <li>Du darfst Nevar nicht nutzen, wenn du das von Discord vorgegebene Mindestalter noch nicht erreicht hast. 
-                    Welches Mindestalter für dich gilt, erfährst du <a href='https://support.discord.com/hc/en-us/community/posts/1500000159622' target='_blank' rel='noopener'>hier</a>. </li>
-                    <li>Sollten wir Genanntes mitbekommen, führt das zu einer Sperre sodass du Nevar nicht mehr nutzen kannst.</li><br>
-                    <b style='color: #D48166'>§2 - Nutzen von Commands</b><br>
-                    <li>Wer Commands spammt um Nevar zu überlasten, wird permanent von uns gesperrt sodass er Nevar nicht mehr nutzen kann.</li><br>
-                    <b style='color: #D48166'>§3 - Bugausnutzung</b><br>
-                    <li>Es ist verboten, Bugs zum eigenen Vorteil oder zum Nachteil Anderer zu missbrauchen.</li><br>
-                    <b style='color: #D48166;'>§4 - Haftung</b><br>
-                    <li>Für alle Aktionen und Inhalte durch Nevar ist der jeweilige Nutzer verantwortlich. Wir übernehmen keine Haftung für eventuelle Schäden.</li><br>
-                    <b style='color: #D48166'>§5 - Rechtswidrige Inhalte</b><br>
-                    <li>Sollten wir feststellen, dass über Nevar (z.B. Embed-Command) rechtswidrige Inhalte geteilt werden, werden wir Rechtsmittel prüfen.</li><br>
-                    <h5 style='color: #D48166'>Allgemeine Bedingungen des Nevar Support-Discords</h5><br>
-                    <b style='color: #D48166'>§1 Umgangston</b><br>
-                    <li>Gehe mit anderen so um, wie du es dir bei dir selber auch wünschst. Sei respektvoll und freundlich.</li><br>
-                    <b style='color: #D48166'>§2 Verhaltensregeln</b><br>
-                    <li>Spam, obszönes, pornographisches oder sonstiges rechtswidriges hat im Chat nichts zu suchen.</li><br>
-                    <b style='color: #D48166'> §3 Sonstige Regeln</b><br>
-                    <li>Es gelten zu jeder Zeit die <a href='https://discord.com/terms' rel='noopener' target='_blank'>Discord Terms of Service</a>, 
-                        die <a href='https://discord.com/guidelines' target='_blank' rel='noopener'>Discord Community Richtlinien</a> sowie das deutsche Gesetz.</li><br>
-                    <h5 style='color: #D48166'><b>Disclaimer:</b></h5>
-                    <p>Wir nehmen uns das Recht, diese Seite jederzeit ohne Ankündigung oder Hinweis zu aktualisieren. Wer auf dem neuesten Stand bleiben möchte,
-                           muss eigenständig dafür sorgen.</p>",
+        "t_text" => file_get_contents($_SERVER['DOCUMENT_ROOT'] . '/assets/languages/terms/de.txt'),
 
 
         // Privacy Policy

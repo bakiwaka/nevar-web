@@ -225,34 +225,7 @@ $lang = array(
     "t_breadcrumb_1" => "Legal",
     "t_breadcrumb_2" => "Términos de Uso",
 
-    "t_text" => "<h4>Condiciones de servicio de Discord Bot Nevar</h4><br>
-                    <b style='color: #D48166'>En primer lugar:</b><br>
-                    <p>Los siguientes Términos de uso se aplican a todos los usuarios de Nevar Bot, miembros de Nevar Support Discord y no están destinados a ninguna excepción..
-                    </p><br>
-                    <h5 style='color: #D48166'>Condiciones Generales de Nevar Bot</h5><br>
-                    <b style='color: #D48166'>§1 - Edad mínima</b><br>
-                    <li>No puede usar Nevar si tiene menos de la edad mínima establecida por Discord.
-                     Puedes averiguar qué edad mínima se aplica a ti <a href='https://support.discord.com/hc/en-us/community/posts/1500000159622' target='_blank' rel='noopener'>aquí</a>. </li>
-                    <li>Si nos enteramos de esto, dará lugar a una prohibición para que ya no pueda usar Nevar.</li><br>
-                    <b style='color: #D48166'>§2 - Uso de Comandos</b><br>
-                    <li>Cualquiera que envíe spam con comandos para sobrecargar a Nevar será expulsado permanentemente de nosotros para que ya no pueda usar Nevar..</li><br>
-                    <b style='color: #D48166'>§3 - Explotación de errores</b><br>
-                    <li>Está prohibido abusar de los errores para su propio beneficio o en detrimento de otros.</li><br>
-                    <b style='color: #D48166;'>§4 - Responsabilidad</b><br>
-                    <li>El usuario respectivo es responsable de todas las acciones y el contenido de Nevar. No asumimos ninguna responsabilidad por ningún daño.</li><br>
-                    <b style='color: #D48166'>§5 - Contenido ilegal</b><br>
-                    <li>Si descubrimos que se está compartiendo contenido ilegal a través de Nevar (por ejemplo, Embed-Command), investigaremos las soluciones legales.</li><br>
-                    <h5 style='color: #D48166'>Términos de discordia de soporte de Nevar</h5><br>
-                    <b style='color: #D48166'>§1 tono de voz</b><br>
-                    <li>Trate a los demás como le gustaría tratarse a sí mismo. Sea respetuoso y amistoso.</li><br>
-                    <b style='color: #D48166'>§2 Código de conducta</b><br>
-                    <li>El spam, obsceno, pornográfico u otro contenido ilegal no tiene cabida en el chat.</li><br>
-                    <b style='color: #D48166'> §3 Otras reglas</b><br>
-                    <li>Los <a href='https://discord.com/terms' rel='noopener' target='_blank'>Términos de servicio de Discord</a> se aplican en todo momento,
-                        las <a href='https://discord.com/guidelines' target='_blank' rel='noopener'>Directrices de la comunidad de Discord</a> y la legislación alemana.</li><br>
-                    <h5 style='color: #D48166'><b>Descargo de responsabilidad:</b></h5>
-                    <p>Nos reservamos el derecho de actualizar esta página en cualquier momento sin aviso ni notificación. Si quieres estar al día,
-                           debe ocuparse de esto de forma independiente.</p>",
+    "t_text" => file_get_contents($_SERVER['DOCUMENT_ROOT'] . '/assets/languages/terms/es.txt'),
 
 
     // Privacy Policy
