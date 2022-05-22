@@ -12,7 +12,7 @@ Wir behalten uns vor, die folgenden Regeln jederzeit unangekündigt anzupassen u
 <p>(1) Jeder Nutzer ist an die Regeln gebunden und dazu verpflichtet, diesen Folge zu leisten.</p>
 <br>
 <h4 style='color: #D48166'>§1.2 Kenntnisnahme des Regelwerks</h4>
-<p>(1) Jeder Nutzer akzeptiert mit dem Betreten des Servers oder durch das Einladen des Bots das Regelwerk. Er bestätigt,, die Regeln in vollem
+<p>(1) Jeder Nutzer akzeptiert mit dem Betreten des Servers oder durch das Einladen des Bots das Regelwerk. Er bestätigt, die Regeln in vollem
 Umfang wahrgenommen zu haben und sich an diese zu halten.</p>
 <p>(2) Ein Widerrufsrecht der Regeln besteht nicht, ausschließlich der Nutzer verlässt den Server oder kickt den Bot.</p>
 <p>(3) Jeder Nutzer ist dazu verpflichtet, sich eigenständig über die Aktualisierungen und Änderungen des Regelwerks zu informieren.
