@@ -99,6 +99,8 @@ $lang = array(
     // Active Users
     "au_title" => "Usuarios activos",
     "au_subtitle"=>"Los usuarios más activos en nuestra discordia de soporte",
+    "au_rank"=>"Rango",
+    "au_level"=>"Nivel",
 
     // FAQ
     "faq_title" => "F.A.Q.",

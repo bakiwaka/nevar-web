@@ -22,7 +22,7 @@ foreach($data as $member):
         </div>
         <div class="member-info">
             <h4><?= $tag ?></h4>
-            <span>Level <?= $level; ?><br><?= $xp ?> / <?= $neededXp?> XP</span>
+            <span><?=$lang['au_rank']?> <?= $position ?></br><?=$lang['au_level']?> <?= $level; ?><br><?= $xp ?> / <?= $neededXp?> XP</span>
         </div>
     </div>
 </div>

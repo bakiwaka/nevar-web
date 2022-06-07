@@ -100,6 +100,8 @@ $lang = array(
     // Active Users
     "au_title" => "Most active users",
     "au_subtitle"=>"The most active users on our support discord",
+    "au_rank"=>"Rank",
+    "au_level"=>"Level",
 
     // FAQ
     "faq_title" => "F.A.Q.",

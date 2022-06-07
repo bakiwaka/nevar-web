@@ -100,6 +100,8 @@
         // Active Users
         "au_title" => "Aktive Nutzer",
         "au_subtitle"=>"Die aktivsten Nutzer auf unserem Support-Discord",
+        "au_rank"=>"Platz",
+        "au_level"=>"Level",
 
         // FAQ
         "faq_title" => "F.A.Q.",
