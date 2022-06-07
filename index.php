@@ -337,6 +337,21 @@ include_once './assets/php/functions/switchLang.php';
         </div>
     </section>
     <!-- End Advantages Section -->
+    <!-- ======= Active Users Section ======= -->
+
+    <section id="activeU" class="team">
+        <div class="container">
+            <header class="section-header">
+                <h2><?=$lang["au_title"] ?></h2>
+                <p><?=$lang["au_subtitle"] ?></p>
+            </header>
+            <div class="row gy-4">
+                <?php include_once './assets/php/functions/pushActiveUsers.php'; ?>
+            </div>
+        </div>
+    </section>
+    <!-- End Active Users Section -->
+
     <!-- ======= F.A.Q Section ======= -->
     <section id="faq" class="faq">
         <div class="container">

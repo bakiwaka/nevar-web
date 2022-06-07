@@ -21,6 +21,7 @@
         "nav_about" => "Über uns",
         "nav_advantage" => "Vorteile",
         "nav_features" => "Features",
+        "nav_active" => "Aktivste Nutzer",
         "nav_team" => "Team",
         "nav_faq" => "FAQ",
 
@@ -96,6 +97,10 @@
         "advantage_3" => "Kostenlos",
         "advantage3_desc" => "Es gibt viele gute Discord-Bots, doch kaum einer bietet seine besten Funktionen kostenlos zur Verwendung an. Bei uns kannst du alle Funktionen nutzen, ohne einen Cent auszugeben",
 
+        // Active Users
+        "au_title" => "Aktive Nutzer",
+        "au_subtitle"=>"Die aktivsten Nutzer auf unserem Support-Discord",
+
         // FAQ
         "faq_title" => "F.A.Q.",
         "faq_subtitle" => "Häufig gestellte Fragen",
@@ -135,7 +140,6 @@
         "footer_terms" => "Nutzungsbedingungen",
         "footer_privacy" => "Datenschutz",
         "footer_imprint" => "Impressum",
-
 
         // Bot-Privacy
 

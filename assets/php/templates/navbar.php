@@ -4,6 +4,7 @@
             <li><a class="nav-link scrollto" href="/#about"><?= $lang["nav_about"]?></a></li>
             <li><a class="nav-link scrollto" href="/#features"><?= $lang["nav_features"]?></a></li>
             <li><a class="nav-link scrollto" href="/#advantages"><?= $lang["nav_advantage"]?></a></li>
+            <li><a class="nav-link scrollto" href="/#activeU"><?= $lang["nav_active"]?></a></li>
             <li><a class="nav-link scrollto" href="/#faq"><?= $lang["nav_faq"]?></a></li>
             <li><a class="nav-link scrollto" href="/#team"><?= $lang["nav_team"]?></a></li>
 

@@ -20,6 +20,7 @@ $lang = array(
     "nav_home" => "Home",
     "nav_about" => "Sobre nosotros",
     "nav_advantage" => "Ventajas",
+    "nav_active" => "Usuarios más activos",
     "nav_features" => "Características",
     "nav_team" => "Equipo",
     "nav_faq" => "FAQ",
@@ -94,6 +95,10 @@ $lang = array(
 
     "advantage_3" => "Gratis",
     "advantage3_desc" => "Hay muchos buenos bots de Discord, pero casi ninguno ofrece sus mejores funciones de forma gratuita. Con nosotros puedes usar todas las funciones sin gastar un centavo",
+
+    // Active Users
+    "au_title" => "Usuarios activos",
+    "au_subtitle"=>"Los usuarios más activos en nuestra discordia de soporte",
 
     // FAQ
     "faq_title" => "F.A.Q.",
