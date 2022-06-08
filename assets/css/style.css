@@ -1141,5 +1141,5 @@ section {
 
 @font-face {
   font-family: 'ginto';
-  src: local('ginto'), url('../fonts/Ginto.woff2') format('woff2');
+  src: local('ginto'), url('https://nevar.eu/assets/fonts/Ginto.woff2') format('woff2');
 }
