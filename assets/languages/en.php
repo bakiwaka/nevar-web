@@ -26,8 +26,8 @@ $lang = array(
     "nav_faq" => "FAQ",
 
     // Home
-    "home_title" => "We offer you everything you need",
-    "home_subtitle" => "Invite Nevar now and let's do the work",
+    "home_title" => "Imagine a bot, ...",
+    "home_subtitle" => "... who does all your work for you and simplifies your workflow as a Discord moderator to the maximum",
 
     // About
     "about_title" => "Who we are",

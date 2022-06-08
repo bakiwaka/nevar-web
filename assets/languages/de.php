@@ -26,8 +26,8 @@
         "nav_faq" => "FAQ",
 
         // Home
-        "home_title" => "Wir bieten dir alles, was du brauchst",
-        "home_subtitle" => "Lade Nevar jetzt ein und lass uns die Arbeit machen",
+        "home_title" => "Stell dir einen Bot vor, ...",
+        "home_subtitle" => "... der dir deine gesamte Arbeit abnimmt und deinen Workflow als Discord Moderator maximal vereinfacht",
 
         // About
         "about_title" => "Wer wir sind",

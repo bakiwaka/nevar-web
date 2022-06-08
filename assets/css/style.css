@@ -1138,3 +1138,8 @@ section {
     display: none;
   }
 }
+
+@font-face {
+  font-family: 'ginto';
+  src: local('ginto'), url('../fonts/Ginto.woff2') format('woff2');
+}
