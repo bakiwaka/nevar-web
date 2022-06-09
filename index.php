@@ -72,7 +72,7 @@ include_once './assets/php/functions/switchLang.php';
                 </div>
             </div>
             <div class="col-lg-6 home-img" data-aos="zoom-out" data-aos-delay="200">
-                <img src="assets/img/favicon_transparent.webp" class="img-fluid" alt="Favicon with transparent background">
+                <img src="assets/img/favicon_transparent.webp" width="auto" height="auto" class="img-fluid" alt="Favicon with transparent background">
             </div>
         </div>
     </div>
@@ -293,7 +293,7 @@ include_once './assets/php/functions/switchLang.php';
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <img src="assets/img/features.webp" class="img-fluid" alt="Features image">
+                    <img src="assets/img/features.webp" width="auto" height="auto" class="img-fluid" alt="Features image">
                 </div>
             </div>
             <!-- End Feature Tabs -->
@@ -464,13 +464,13 @@ include_once './assets/php/functions/switchLang.php';
             </header>
             <div class="clients-slider swiper">
                 <div class="swiper-wrapper align-items-center">
-                    <div class="swiper-slide"><a href="https://prohosting24.de/a/tinte" aria-label="Prohosting website" rel="noopener" target="_blank"><img src="assets/img/clients/ph24.webp" class="img-fluid" data-toggle="tooltip" data-placement="top" title="Prohosting24" alt="Prohosting Logo"></a></div>
-                    <div class="swiper-slide"><a href="https://nodejs.org" aria-label="NodeJS website" rel="noopener" target="_blank"><img src="assets/img/clients/nodejs.webp" class="img-fluid" data-toggle="tooltip" data-placement="top" title="NodeJS" alt="NodeJS Logo"></a></div>
-                    <div class="swiper-slide"><a href="https://github.com" aria-label="Github website" rel="noopener" target="_blank"><img src="assets/img/clients/github.webp" class="img-fluid" data-toggle="tooltip" data-placement="top" title="Github" alt="Github Logo"></a></div>
-                    <div class="swiper-slide"><a href="https://discord.com" aria-label="Discord website" rel="noopener" target="_blank"><img src="assets/img/clients/discord.webp" class="img-fluid" data-toggle="tooltip" data-placement="top" title="Discord" alt="Discord Logo"></a></div>
-                    <div class="swiper-slide"><a href="https://discord.js.org" aria-label="Discord.js website" rel="noopener" target="_blank"><img src="assets/img/clients/discordjs.webp" class="img-fluid" data-toggle="tooltip" data-placement="top" title="Discord.js" alt="Discord.js Logo"></a></div>
-                    <div class="swiper-slide"><a href="https://jetbrains.com/webstorm" aria-label="Jetbrains website" rel="noopener" target="_blank"><img src="assets/img/clients/webstorm.webp" class="img-fluid" data-toggle="tooltip" data-placement="top" title="Jetbrains Webstorm" alt="Webstorm logo"></a></div>
-                    <div class="swiper-slide"><a href="https://mongodb.com" aria-label="MongoDB website" rel="noopener" target="_blank"><img src="assets/img/clients/mongodb.webp" class="img-fluid" data-toggle="tooltip" data-placement="top" title="MongoDB" alt="MongoDB logo"></a></div>
+                    <div class="swiper-slide"><a href="https://prohosting24.de/a/tinte" aria-label="Prohosting website" rel="noopener" target="_blank"><img src="assets/img/clients/ph24.webp" width="auto" height="auto" class="img-fluid" data-toggle="tooltip" data-placement="top" title="Prohosting24" alt="Prohosting Logo"></a></div>
+                    <div class="swiper-slide"><a href="https://nodejs.org" aria-label="NodeJS website" rel="noopener" target="_blank"><img src="assets/img/clients/nodejs.webp" width="auto" height="auto" class="img-fluid" data-toggle="tooltip" data-placement="top" title="NodeJS" alt="NodeJS Logo"></a></div>
+                    <div class="swiper-slide"><a href="https://github.com" aria-label="Github website" rel="noopener" target="_blank"><img src="assets/img/clients/github.webp" width="auto" height="auto" class="img-fluid" data-toggle="tooltip" data-placement="top" title="Github" alt="Github Logo"></a></div>
+                    <div class="swiper-slide"><a href="https://discord.com" aria-label="Discord website" rel="noopener" target="_blank"><img src="assets/img/clients/discord.webp" width="auto" height="auto" class="img-fluid" data-toggle="tooltip" data-placement="top" title="Discord" alt="Discord Logo"></a></div>
+                    <div class="swiper-slide"><a href="https://discord.js.org" aria-label="Discord.js website" rel="noopener" target="_blank"><img src="assets/img/clients/discordjs.webp" width="auto" height="auto" class="img-fluid" data-toggle="tooltip" data-placement="top" title="Discord.js" alt="Discord.js Logo"></a></div>
+                    <div class="swiper-slide"><a href="https://jetbrains.com/webstorm" aria-label="Jetbrains website" rel="noopener" target="_blank"><img src="assets/img/clients/webstorm.webp" width="auto" height="auto" class="img-fluid" data-toggle="tooltip" data-placement="top" title="Jetbrains Webstorm" alt="Webstorm logo"></a></div>
+                    <div class="swiper-slide"><a href="https://mongodb.com" aria-label="MongoDB website" rel="noopener" target="_blank"><img src="assets/img/clients/mongodb.webp" width="auto" height="auto" class="img-fluid" data-toggle="tooltip" data-placement="top" title="MongoDB" alt="MongoDB logo"></a></div>
                 </div>
                 <div class="swiper-pagination"></div>
             </div>

@@ -5,7 +5,7 @@
         <div class="row gy-4">
           <div class="col-lg-4 col-md-6 footer-info">
             <a href="/" aria-label="Home redirect" class="logo d-flex align-items-center">
-              <img src="/assets/img/favicon_transparent.webp" alt="Favicon with transparent background">
+              <img src="/assets/img/favicon_transparent.webp" width="auto" height="auto" alt="Favicon with transparent background">
               <span>Nevar</span>
             </a>
             <p><?= $lang["home_subtitle"]?></p>

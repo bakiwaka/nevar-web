@@ -9,11 +9,11 @@
             <li><a class="nav-link scrollto" href="/#team"><?= $lang["nav_team"]?></a></li>
 
             <li><a class="nav_invite" href="/invite?r=false"><?= $lang["invite"]?></a></li>
-            <li class="dropdown"><a href="#"><span><img src="/assets/img/lang/<?= $lang["lang_iso"]?>.webp" style="size: 28px;height:28px" alt="Current language"></span> <i class="bi bi-chevron-down"></i></a>
+            <li class="dropdown"><a href="#"><span><img src="/assets/img/lang/<?= $lang["lang_iso"]?>.webp" style="size: 28px;height:28px" width="auto" height="auto" alt="Current language"></span> <i class="bi bi-chevron-down"></i></a>
                 <ul>
-                    <li><a href="?lang=<?= $lang["lang_de_iso"]?>"><?= $lang["lang_de"]?> <img src="/assets/img/lang/<?= $lang["lang_de_iso"]?>.webp" style="size: 28px;height:28px" alt="German flag"></a></li>
-                    <li><a href="?lang=<?= $lang["lang_en_iso"]?>"><?= $lang["lang_en"]?> <img src="/assets/img/lang/<?= $lang["lang_en_iso"]?>.webp" style="size: 28px;height:28px" alt="United Kingdom flag"></a></li>
-                    <li><a href="?lang=<?= $lang["lang_es_iso"]?>"><?= $lang["lang_es"]?> <img src="/assets/img/lang/<?= $lang["lang_es_iso"]?>.webp" style="size: 28px;height:28px" alt="Spanish flag"></a></li>
+                    <li><a href="?lang=<?= $lang["lang_de_iso"]?>"><?= $lang["lang_de"]?> <img src="/assets/img/lang/<?= $lang["lang_de_iso"]?>.webp" style="size: 28px;height:28px" width="auto" height="auto" alt="German flag"></a></li>
+                    <li><a href="?lang=<?= $lang["lang_en_iso"]?>"><?= $lang["lang_en"]?> <img src="/assets/img/lang/<?= $lang["lang_en_iso"]?>.webp" style="size: 28px;height:28px" width="auto" height="auto" alt="United Kingdom flag"></a></li>
+                    <li><a href="?lang=<?= $lang["lang_es_iso"]?>"><?= $lang["lang_es"]?> <img src="/assets/img/lang/<?= $lang["lang_es_iso"]?>.webp" style="size: 28px;height:28px" width="auto" height="auto" alt="Spanish flag"></a></li>
                 </ul>
             </li>
         </ul>

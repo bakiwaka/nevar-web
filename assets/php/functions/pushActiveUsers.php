@@ -15,7 +15,7 @@ foreach($data as $member):
 <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
     <div class="member">
         <div class="member-img">
-            <img src="<?= $avatar; ?>" class="img-fluid" alt="">
+            <img src="<?= $avatar; ?>" class="img-fluid" alt="<?=$tag;?>'s avatar" width="auto" height="auto">
             <div class="social">
                 <a href="https://discord.com/users/<?= $id;?>" rel="noopener" target="_blank"><i class="bi bi-discord"></i></a>
             </div>
