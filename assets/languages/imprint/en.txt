@@ -6,10 +6,10 @@
 
             <p>
                 Jonas Pape<br>
-                c/o Julian Bastien Wiedemann<br>
-                Große Rurstraße 84<br>
-                52428 Jülich<br>
-                Germany
+                c/o Lukas Wanro<br>
+                Bertnazikgasse 1/12/4<br>
+                1190 Vienna<br>
+                Austria
             </p>
 
             <h2 style='color: #D48166'>Contact options</h2>
